@@ -2,7 +2,7 @@ var skl_y = document.getElementById('skills').offsetTop ;
 
 var scrolls = document.getElementsByClassName('progress') ;
 
-var txt = ['Frontend разработчик','Web developer','Просто хороший парень'] ;
+var txt = ['Frontend developer','Веб - разработчик','Просто хороший парень'] ;
 var cgtxt = document.getElementById('des-chang') ;
 cgtxt.classList.add('slideitUp') ;
 
