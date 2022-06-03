@@ -50,9 +50,15 @@
 }
 .serv-desc{
     margin-top: 1.6rem ; 
-    font-size: 1.5rem ;
+    font-size: 1.2rem ;
     text-align: justify ; 
     padding: 10px ;
+    a {
+        color: red;
+        padding: 0;
+        margin: 0;
+        font-size: 1.2rem;
+    }
 }
 
 @media screen and (max-width : $siz-laptop){
@@ -94,6 +100,6 @@
     }
     .serv-desc{
         margin-top: 1.6rem ; 
-        text-align: center ;   
+        text-align: center ;
     }
 }
