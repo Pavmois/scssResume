@@ -181,7 +181,7 @@ a, a.hover, a.focus {
 
 .serv-desc {
   margin-top: 1.6rem;
-  font-size: 1.2rem;
+  font-size: 0.9rem;
   text-align: justify;
   padding: 10px;
 }
@@ -436,7 +436,7 @@ body::-webkit-scrollbar-thumb:hover {
 }
 @media screen and (max-width: 480px) and (max-width: 1600px) {
   .ben-wraper {
-    width: 50%;
+    width: 90%;
   }
 }
 @media screen and (max-width: 480px) and (min-width: 750px) {
